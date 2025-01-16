@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/9b5a0baa-64c0-4ece-8fdf-aa95323010e0)
+![image](https://github.com/user-attachments/assets/1f6ab96e-5c91-4b73-8cf7-918ea6d96ac3)
+![image](https://github.com/user-attachments/assets/238c0f75-8a7c-4fe0-a6b9-d7e5b8f062b8)
+
 # OSINT Framework
 
 A powerful OSINT (Open-Source Intelligence) framework for gathering and analyzing publicly available information.
